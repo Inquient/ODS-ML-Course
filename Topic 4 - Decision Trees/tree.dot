@@ -571,7 +571,7 @@ node [shape=box, style="filled", color="black"] ;
 283 -> 284 ;
 285 [label="Month <= 5.5\ngini = 0.371\nsamples = 1497\nvalue = [1128, 369]\nclass = Y", fillcolor="#e58139ac"] ;
 284 -> 285 ;
-286 [label="Dest <= 262.5\ngini = 0.325\nsamples = 608\nvalue = [484, 124]\nclass = Y", fillcolor="#e58139be"] ;
+286 [label="Origin <= 256.0\ngini = 0.325\nsamples = 608\nvalue = [484, 124]\nclass = Y", fillcolor="#e58139be"] ;
 285 -> 286 ;
 287 [label="gini = 0.322\nsamples = 605\nvalue = [483, 122]\nclass = Y", fillcolor="#e58139bf"] ;
 286 -> 287 ;
